@@ -17,7 +17,7 @@
 
 В [резюме] можно подробнее познакомиться с моими навыками и опытом работы.
 
--- 
+---
 - 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
 
 ---
@@ -88,19 +88,18 @@
 <h2>Test Artifacts </h2>
 <p> 
  <ul>
-  <li>  <a href="https://github.com/osukhorukova/JavaTestAutomation/tree/master">Java Test Automation</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
-<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
-<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+  <li>  <a href="https://github.com/Sytugin/theory">Теория тестирования</a>  </li>
+<li>  <a href="https://github.com/Sytugin/Design">Применение техник тест дизайна</a>  </li>
+<li>  <a href="https://github.com/Sytugin/docs"> Составление тестовой документации для веб приложения </a>  </li>
+<li> <a href="https://github.com/Sytugin/Web"> Тестирование веб приложений</a>   </li>
+<li>  <a href="https://github.com/Sytugin/mobile">Тестирование мобильного приложения</a>  </li>
+<li>  <a href="https://github.com/Sytugin/Api"> Тестирование Api</a>   </li>
+<li> <a href="https://github.com/Sytugin/database">Работа с базами данных</a>  </li>
+<li> <a href="https://github.com/Sytugin/bash"> Bash </a>  </li>
 </ul>
 ---
 
-<!-- ### 💻 Пройденные курсы:
+-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
