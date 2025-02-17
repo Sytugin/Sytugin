@@ -18,7 +18,7 @@
 В [резюме] можно подробнее познакомиться с моими навыками и опытом работы.
 
 -- 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.icons8.com/?size=512&id=63306&format=png)width="40" height="40" alt="telegram"](@Sytugin_Oleg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
+- 📫 Как связаться со мной: [![Telegram Badge](https://cdn-icons-png.flaticon.com/512/2111/2111646.)](@Sytugin_Oleg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
 
 <!---
 
@@ -28,14 +28,14 @@
     <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/Sytugin_Oleg" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
----
+--->
 
-Инструменты, с котороыми я работаю:
+Инструменты, с которыми я работаю:
 
 ### 📁 Тестовая документация:
 
@@ -91,6 +91,19 @@
   
 </div>
 
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+  <li>  <a href="https://github.com/osukhorukova/JavaTestAutomation/tree/master">Java Test Automation</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+</ul>
 ---
 
 <!-- ### 💻 Пройденные курсы:
