@@ -18,22 +18,19 @@
 В [резюме] можно подробнее познакомиться с моими навыками и опытом работы.
 
 -- 
-- 📫 Как связаться со мной: [![Telegram Badge](https://cdn-icons-png.flaticon.com/512/2111/2111646.)](@Sytugin_Oleg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
+- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
 
-<!---
+---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
     <a href="https://t.me/Sytugin_Oleg" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
---->
+---
 
 Инструменты, с которыми я работаю:
 
