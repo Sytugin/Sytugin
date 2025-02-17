@@ -97,7 +97,7 @@
 <li> <a href="https://github.com/Sytugin/database">Работа с базами данных</a>  </li>
 <li> <a href="https://github.com/Sytugin/bash"> Bash </a>  </li>
 </ul>
----
+
 
  ### 💻 Пройденные курсы:
 
@@ -107,4 +107,4 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau) 
