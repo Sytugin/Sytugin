@@ -18,7 +18,7 @@
 В [резюме] можно подробнее познакомиться с моими навыками и опытом работы.
 
 -- 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.icons8.com/?size=512&id=63306&format=png)](@Sytugin_Oleg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.icons8.com/?size=512&id=63306&format=png)width="40" height="40" alt="telegram"](@Sytugin_Oleg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
 
 <!---
 
