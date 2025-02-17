@@ -95,7 +95,7 @@
 <li>  <a href="https://github.com/Sytugin/mobile">Тестирование мобильного приложения</a>  </li>
 <li>  <a href="https://github.com/Sytugin/Api"> Тестирование Api</a>   </li>
 <li> <a href="https://github.com/Sytugin/database">Работа с базами данных</a>  </li>
-<li> <a href="https://github.com/Sytugin/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/Sytugin/git_bush"> Bash </a>  </li>
 </ul>
 
 
