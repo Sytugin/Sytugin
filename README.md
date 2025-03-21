@@ -101,7 +101,7 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| [Функциональное тестирование ПО](https://drive.google.com/file/d/1kJR2S0bBU6bu6OJ8NFGOj7eB9iJN8CqU/view?usp=sharing)  Артем Русов                  |  02/2022 - 04/2022|
+| [Функциональное тестирование ПО](https://drive.google.com/file/d/1kJR2S0bBU6bu6OJ8NFGOj7eB9iJN8CqU/view?usp=sharing)  Артем Русов                  |  11/2024 - 02/2025|
 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sytugin)
