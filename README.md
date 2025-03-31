@@ -19,7 +19,7 @@
 В [резюме](https://drive.google.com/file/d/1Q_HKM0NJ9ig10J56oUN8-_YpBoi2d3Vs/view?usp=sharing) можно подробнее познакомиться с моими навыками и опытом работы.
 
 ---
-- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:oleg199198@gmail.com)
+- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:olegsytuginqa@gmail.com)
 
 ---
 
